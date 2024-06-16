@@ -5,4 +5,4 @@ The project that I built today was a simple todo list which can add, remove and 
 - Array's
 - def (defining a variable)
 - if statement (true or false)
-- while statement (runs until not true or false)
+- while statement (runs while true or false)
